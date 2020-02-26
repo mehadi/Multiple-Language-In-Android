@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Multiple Language</string>
+    <string name="love_text">I love my country.</string>
+    <string name="change_language">Change language</string>
+</resources>
